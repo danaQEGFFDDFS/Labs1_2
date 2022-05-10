@@ -1,0 +1,10 @@
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\bin\Debug\Lab2Test.exe.config
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\bin\Debug\Lab2Test.exe
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\bin\Debug\Lab2Test.pdb
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.csproj.AssemblyReference.cache
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.Form1.resources
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.Properties.Resources.resources
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.csproj.GenerateResource.cache
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.csproj.CoreCompileInputs.cache
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.exe
+C:\Users\Dana\source\repos\Lab2Test\Lab2Test\obj\Debug\Lab2Test.pdb
